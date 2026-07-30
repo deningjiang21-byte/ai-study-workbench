@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "AI 留学生学习工作台",
+  "short_name": "学习工作台",
+  "description": "面向海外留学生的 AI 学习与效率工作台，支持安装为网页 App。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#07111f",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
